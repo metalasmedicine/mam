@@ -1,0 +1,15 @@
+flask==1.1.2
+flask-sqlalchemy==2.4.3
+flask-bcrypt==0.7.1
+flask-mail==0.9.1
+flask-moment==0.10.0
+flask-misaka==1.0.0
+flask-migrate==2.5.3
+flask-wtf==0.14.3
+flask-login==0.5.0
+pillow==7.1.2
+bleach==3.1.5
+requests==2.24.0
+pytube3==9.6.4
+email-validator==1.1.1
+psycopg2==2.8.5
